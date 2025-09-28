@@ -17,7 +17,7 @@ from utils.predictor import Predictor
 from utils.data_fetcher import DataFetcher
 
 st.set_page_config(
-    page_title="BMKG Tarakan Rainfall Prediction System",
+    page_title="BMKG Tarakan Radiosonde analyzer",
     page_icon="🌧️",
     layout="wide"
 )
